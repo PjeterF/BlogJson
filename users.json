@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Piotr",
+      "email": "testE",
+      "password": "testP",
+      "id": 1
+    },
+    {
+      "username": "Piotr",
+      "email": "testE",
+      "password": "testP",
+      "id": 2
+    },
+    {
+      "username": "Piotr",
+      "email": "testE",
+      "password": "testP",
+      "id": 3
+    },
+    {
+      "username": "Piotr",
+      "email": "testE",
+      "password": "testP",
+      "id": 4
+    },
+    {
+      "username": "Piotr",
+      "email": "testE",
+      "password": "testP",
+      "id": 5
+    }
+  ]
+}
